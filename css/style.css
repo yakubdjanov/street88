@@ -100,7 +100,7 @@ body {
     display: none;
     padding: 22px 10px 22px 14px;
     font-size: 40px;
-    line-height: 30px;
+    line-height: 20px;
 }
 .menu__content {
     display: flex;  
